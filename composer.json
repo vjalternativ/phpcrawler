@@ -1,3 +1,5 @@
 {
-	"name" : "vizzy-php/crawler"
+	"name" : "vizzy-php/crawler",
+	"type" : "library",
+	"license" : "MIT"
 }
